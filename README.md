@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=300&section=header&text=Welecome&fontSize=150" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=B0E0E6&height=300&section=header&text=Welecome&fontSize=150" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeongmin1225)
 
